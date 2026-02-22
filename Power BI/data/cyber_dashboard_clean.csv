@@ -1,0 +1,301 @@
+Incident_ID,Attack_Type,Severity,Affected_Asset,Loophole_Used,Solution_Applied,Records_Compromised,Financial_Impact_USD
+1,SQL Injection,Critical,Web Server,Social Engineering,Patch Update,48333,436196
+2,SQL Injection,Medium,Email Server,Weak Password,Firewall Rule Update,17323,183754
+3,Malware,Critical,Database,Open Port,Network Monitoring,48440,309241
+4,SQL Injection,High,User Endpoint,Open Port,Credential Reset,9224,412487
+5,Phishing,Medium,Database,Misconfigured Permissions,Access Revocation,34983,148369
+6,Insider Threat,Medium,Email Server,Unpatched Software,Access Revocation,37634,141164
+7,Insider Threat,Low,Web Server,Social Engineering,Patch Update,18274,455582
+8,SQL Injection,Medium,Web Server,Open Port,Network Monitoring,46721,169871
+9,Phishing,Critical,User Endpoint,Open Port,Credential Reset,41545,141885
+10,SQL Injection,Critical,User Endpoint,Social Engineering,Patch Update,41625,417598
+11,Malware,Critical,Email Server,Unpatched Software,Firewall Rule Update,32084,172593
+12,Insider Threat,Low,Database,Social Engineering,Access Revocation,4250,418164
+13,Insider Threat,Critical,Web Server,Social Engineering,Network Monitoring,32521,141790
+14,Ransomware,High,Email Server,Misconfigured Permissions,Credential Reset,8658,297821
+15,DDoS,High,Database,Weak Password,Patch Update,41137,411983
+16,DDoS,Low,Database,Open Port,Firewall Rule Update,30018,1354
+17,DDoS,Medium,Web Server,Unpatched Software,Network Monitoring,18058,49937
+18,SQL Injection,High,Email Server,Weak Password,Access Revocation,43649,474851
+19,SQL Injection,Medium,Database,Social Engineering,Access Revocation,47678,367708
+20,Phishing,Critical,Database,Weak Password,Patch Update,14086,250984
+21,Malware,Medium,Web Server,Misconfigured Permissions,Firewall Rule Update,708,5227
+22,SQL Injection,High,Database,Social Engineering,Network Monitoring,31406,38134
+23,Phishing,Critical,Database,Weak Password,Patch Update,20635,193708
+24,Ransomware,Medium,User Endpoint,Open Port,Network Monitoring,4583,279139
+25,Insider Threat,Low,Web Server,Social Engineering,Access Revocation,47445,112702
+26,SQL Injection,Medium,User Endpoint,Misconfigured Permissions,Firewall Rule Update,14337,46449
+27,Malware,Medium,Database,Misconfigured Permissions,Firewall Rule Update,23138,226123
+28,Ransomware,Medium,Web Server,Unpatched Software,Patch Update,16363,291139
+29,Insider Threat,High,Database,Unpatched Software,Network Monitoring,34031,319204
+30,Insider Threat,Medium,User Endpoint,Unpatched Software,Patch Update,15785,260463
+31,DDoS,Low,Web Server,Social Engineering,Credential Reset,4753,277974
+32,Malware,High,Email Server,Open Port,Firewall Rule Update,37349,221653
+33,Ransomware,Medium,User Endpoint,Weak Password,Patch Update,38593,36406
+34,Malware,High,Web Server,Weak Password,Patch Update,26181,266609
+35,Ransomware,Critical,User Endpoint,Social Engineering,Patch Update,42078,282314
+36,Insider Threat,Medium,Email Server,Weak Password,Access Revocation,5278,269070
+37,Phishing,Medium,Email Server,Social Engineering,Credential Reset,41669,401149
+38,SQL Injection,Low,Email Server,Social Engineering,Network Monitoring,3894,129177
+39,Malware,Critical,Database,Social Engineering,Credential Reset,40000,29850
+40,Ransomware,Medium,Database,Weak Password,Network Monitoring,46073,6950
+41,Phishing,Critical,Email Server,Misconfigured Permissions,Credential Reset,47336,136920
+42,Phishing,High,Web Server,Unpatched Software,Patch Update,2023,176642
+43,DDoS,High,Database,Unpatched Software,Credential Reset,41225,41406
+44,DDoS,Critical,Email Server,Weak Password,Firewall Rule Update,37251,88493
+45,Ransomware,Medium,Email Server,Weak Password,Credential Reset,44279,379944
+46,Malware,Medium,Database,Weak Password,Patch Update,16126,25107
+47,DDoS,High,User Endpoint,Open Port,Network Monitoring,2417,290860
+48,SQL Injection,Critical,Web Server,Unpatched Software,Network Monitoring,27379,481171
+49,SQL Injection,High,Email Server,Weak Password,Credential Reset,24532,63600
+50,Insider Threat,Low,Web Server,Open Port,Credential Reset,3109,211200
+51,Malware,Critical,Email Server,Unpatched Software,Access Revocation,5761,290979
+52,DDoS,Low,Email Server,Open Port,Access Revocation,37049,412307
+53,Ransomware,Medium,User Endpoint,Unpatched Software,Credential Reset,32432,406071
+54,Phishing,Medium,Web Server,Weak Password,Firewall Rule Update,1666,123157
+55,Insider Threat,High,Database,Unpatched Software,Patch Update,49837,345616
+56,DDoS,High,Database,Open Port,Credential Reset,15708,221104
+57,DDoS,Low,Web Server,Unpatched Software,Patch Update,2977,484013
+58,Phishing,Critical,Email Server,Social Engineering,Patch Update,38161,51109
+59,Insider Threat,Medium,User Endpoint,Weak Password,Credential Reset,37312,33654
+60,DDoS,Medium,Web Server,Unpatched Software,Access Revocation,20744,486512
+61,DDoS,High,Email Server,Social Engineering,Access Revocation,15409,40157
+62,Phishing,Medium,Database,Open Port,Patch Update,10872,236702
+63,DDoS,High,User Endpoint,Weak Password,Credential Reset,23580,404878
+64,Phishing,Critical,Email Server,Social Engineering,Access Revocation,7958,48406
+65,Phishing,High,Database,Open Port,Access Revocation,9820,48821
+66,SQL Injection,Medium,Email Server,Social Engineering,Credential Reset,3308,356039
+67,Ransomware,High,Web Server,Weak Password,Firewall Rule Update,29735,292479
+68,SQL Injection,Medium,Database,Social Engineering,Patch Update,9261,64676
+69,Malware,Low,Web Server,Open Port,Network Monitoring,26352,196160
+70,SQL Injection,Low,Email Server,Weak Password,Patch Update,4325,104678
+71,SQL Injection,Critical,Web Server,Weak Password,Access Revocation,8129,23385
+72,DDoS,Low,Web Server,Misconfigured Permissions,Firewall Rule Update,47576,208093
+73,DDoS,Low,User Endpoint,Social Engineering,Network Monitoring,23296,113573
+74,Phishing,High,Email Server,Social Engineering,Network Monitoring,2370,322968
+75,Insider Threat,Medium,Email Server,Social Engineering,Firewall Rule Update,36189,252150
+76,Malware,Low,Email Server,Social Engineering,Network Monitoring,27574,105573
+77,SQL Injection,Medium,Database,Social Engineering,Access Revocation,31536,286484
+78,DDoS,High,Email Server,Social Engineering,Access Revocation,11884,14664
+79,Ransomware,Medium,Database,Unpatched Software,Patch Update,31012,278574
+80,Ransomware,Medium,Web Server,Weak Password,Network Monitoring,43148,127433
+81,Ransomware,Low,Web Server,Misconfigured Permissions,Firewall Rule Update,23352,491317
+82,Phishing,Medium,Web Server,Misconfigured Permissions,Access Revocation,48472,366757
+83,Ransomware,Low,Email Server,Misconfigured Permissions,Credential Reset,9412,296231
+84,Phishing,Critical,Email Server,Open Port,Firewall Rule Update,2587,48320
+85,Malware,Medium,Web Server,Weak Password,Credential Reset,31425,1358
+86,Ransomware,Medium,Web Server,Unpatched Software,Network Monitoring,21306,32224
+87,Malware,Medium,Web Server,Weak Password,Credential Reset,24013,39027
+88,Ransomware,Critical,Database,Unpatched Software,Access Revocation,21242,72539
+89,Phishing,Critical,User Endpoint,Unpatched Software,Network Monitoring,46445,295637
+90,SQL Injection,High,Web Server,Misconfigured Permissions,Network Monitoring,24897,161863
+91,SQL Injection,High,Web Server,Open Port,Patch Update,46106,498391
+92,Insider Threat,Critical,Database,Open Port,Credential Reset,20954,483889
+93,Insider Threat,Medium,Database,Social Engineering,Network Monitoring,21803,391774
+94,Malware,Medium,Email Server,Unpatched Software,Network Monitoring,41793,465162
+95,Malware,High,User Endpoint,Weak Password,Access Revocation,13841,131831
+96,SQL Injection,Low,Email Server,Unpatched Software,Patch Update,47313,1671
+97,Malware,Critical,User Endpoint,Social Engineering,Network Monitoring,27233,259516
+98,DDoS,High,User Endpoint,Weak Password,Firewall Rule Update,37983,342295
+99,SQL Injection,Medium,Web Server,Social Engineering,Patch Update,2289,155617
+100,Malware,High,Email Server,Weak Password,Patch Update,22500,90184
+101,DDoS,Medium,Database,Misconfigured Permissions,Patch Update,22247,312443
+102,Insider Threat,Critical,Database,Social Engineering,Network Monitoring,39901,467486
+103,DDoS,Medium,Database,Weak Password,Access Revocation,13570,100606
+104,DDoS,High,Email Server,Unpatched Software,Network Monitoring,6385,27023
+105,DDoS,Critical,Web Server,Weak Password,Access Revocation,350,225188
+106,Malware,High,User Endpoint,Open Port,Patch Update,1786,109502
+107,Phishing,High,Database,Social Engineering,Patch Update,20308,412501
+108,DDoS,Critical,User Endpoint,Unpatched Software,Patch Update,42165,286278
+109,DDoS,Medium,Email Server,Social Engineering,Access Revocation,12327,234714
+110,Malware,High,User Endpoint,Social Engineering,Access Revocation,14927,439870
+111,Ransomware,Low,Web Server,Weak Password,Patch Update,43887,181245
+112,Insider Threat,Critical,Web Server,Misconfigured Permissions,Patch Update,25469,430080
+113,Insider Threat,Critical,User Endpoint,Misconfigured Permissions,Network Monitoring,31312,157684
+114,Malware,Critical,Database,Misconfigured Permissions,Credential Reset,33970,420666
+115,Insider Threat,Medium,Database,Social Engineering,Network Monitoring,11055,112091
+116,Phishing,Medium,Database,Social Engineering,Patch Update,44869,229271
+117,Phishing,Medium,Email Server,Unpatched Software,Patch Update,5803,204475
+118,Insider Threat,Critical,Email Server,Unpatched Software,Credential Reset,30125,481856
+119,Malware,Critical,Database,Social Engineering,Network Monitoring,9812,298058
+120,Insider Threat,Low,Database,Misconfigured Permissions,Patch Update,18849,455806
+121,Insider Threat,High,User Endpoint,Unpatched Software,Firewall Rule Update,43012,255586
+122,Insider Threat,Critical,Database,Open Port,Access Revocation,26509,76420
+123,Insider Threat,Critical,Database,Social Engineering,Access Revocation,45353,125559
+124,Malware,Critical,Email Server,Unpatched Software,Patch Update,22242,429545
+125,Ransomware,High,Email Server,Social Engineering,Patch Update,15039,71456
+126,Ransomware,Critical,Email Server,Unpatched Software,Firewall Rule Update,39747,339456
+127,Malware,Medium,User Endpoint,Open Port,Firewall Rule Update,48658,254996
+128,Insider Threat,High,Database,Misconfigured Permissions,Network Monitoring,4400,164118
+129,SQL Injection,Critical,Web Server,Misconfigured Permissions,Credential Reset,1997,92088
+130,Phishing,Medium,Database,Open Port,Patch Update,30013,27507
+131,Ransomware,Medium,Email Server,Unpatched Software,Firewall Rule Update,33203,209112
+132,SQL Injection,Low,Database,Open Port,Access Revocation,32133,312449
+133,DDoS,Medium,User Endpoint,Misconfigured Permissions,Credential Reset,23021,181485
+134,Phishing,High,Database,Unpatched Software,Patch Update,25433,27031
+135,Phishing,Medium,Web Server,Open Port,Network Monitoring,17734,342619
+136,DDoS,Low,Database,Social Engineering,Network Monitoring,42526,91807
+137,Insider Threat,Low,Web Server,Unpatched Software,Credential Reset,20118,374681
+138,SQL Injection,High,User Endpoint,Social Engineering,Access Revocation,30180,133119
+139,Phishing,Critical,Email Server,Misconfigured Permissions,Credential Reset,26127,307439
+140,Malware,Low,Email Server,Misconfigured Permissions,Credential Reset,40014,149204
+141,Ransomware,Low,User Endpoint,Weak Password,Access Revocation,18219,336856
+142,Ransomware,High,Email Server,Unpatched Software,Network Monitoring,9925,272210
+143,Phishing,Low,User Endpoint,Unpatched Software,Network Monitoring,47370,14345
+144,SQL Injection,Critical,Email Server,Unpatched Software,Firewall Rule Update,26615,204567
+145,SQL Injection,Low,Web Server,Unpatched Software,Network Monitoring,45078,281302
+146,SQL Injection,Critical,Email Server,Misconfigured Permissions,Access Revocation,11240,441736
+147,SQL Injection,Medium,Email Server,Weak Password,Firewall Rule Update,8484,389454
+148,Ransomware,Medium,Email Server,Weak Password,Network Monitoring,23383,118088
+149,SQL Injection,High,User Endpoint,Unpatched Software,Access Revocation,17176,308007
+150,Ransomware,Critical,Database,Social Engineering,Patch Update,41675,306961
+151,Insider Threat,Low,User Endpoint,Open Port,Credential Reset,7952,455818
+152,SQL Injection,Critical,Email Server,Social Engineering,Patch Update,9981,73018
+153,Phishing,High,User Endpoint,Misconfigured Permissions,Firewall Rule Update,9486,166876
+154,SQL Injection,Medium,Database,Social Engineering,Access Revocation,41455,93706
+155,Ransomware,Low,Database,Social Engineering,Access Revocation,13822,400084
+156,Phishing,Medium,User Endpoint,Weak Password,Network Monitoring,40370,228389
+157,SQL Injection,Critical,User Endpoint,Social Engineering,Firewall Rule Update,25221,3447
+158,Malware,Medium,Email Server,Weak Password,Access Revocation,49700,437851
+159,Insider Threat,Medium,Database,Weak Password,Network Monitoring,14928,364606
+160,Ransomware,High,Web Server,Weak Password,Firewall Rule Update,33086,309632
+161,Ransomware,Medium,Database,Weak Password,Access Revocation,19159,240036
+162,SQL Injection,High,User Endpoint,Open Port,Access Revocation,32224,189350
+163,Phishing,Medium,User Endpoint,Weak Password,Network Monitoring,14801,382245
+164,Phishing,Medium,Database,Misconfigured Permissions,Credential Reset,11174,65572
+165,Ransomware,Low,User Endpoint,Unpatched Software,Credential Reset,40937,26473
+166,Insider Threat,Low,Database,Weak Password,Patch Update,45303,61707
+167,DDoS,Critical,User Endpoint,Weak Password,Credential Reset,16663,249720
+168,SQL Injection,Medium,Web Server,Weak Password,Access Revocation,27682,347902
+169,Malware,High,Web Server,Social Engineering,Patch Update,33627,377840
+170,Insider Threat,Low,Email Server,Weak Password,Patch Update,32719,105148
+171,Insider Threat,Medium,Email Server,Misconfigured Permissions,Network Monitoring,23556,369803
+172,DDoS,High,Web Server,Weak Password,Credential Reset,32629,478289
+173,Phishing,Critical,Email Server,Open Port,Patch Update,935,353129
+174,Malware,Low,User Endpoint,Open Port,Patch Update,33635,40346
+175,SQL Injection,Low,Email Server,Open Port,Firewall Rule Update,19500,139477
+176,DDoS,Low,Database,Open Port,Patch Update,19142,189856
+177,SQL Injection,High,User Endpoint,Weak Password,Patch Update,49789,467769
+178,Malware,Low,Web Server,Open Port,Access Revocation,23530,469990
+179,DDoS,High,Database,Unpatched Software,Access Revocation,12084,60680
+180,DDoS,Critical,User Endpoint,Unpatched Software,Firewall Rule Update,45313,446996
+181,DDoS,Critical,Web Server,Weak Password,Network Monitoring,45724,381848
+182,Malware,Medium,Database,Social Engineering,Credential Reset,31732,421617
+183,Insider Threat,Critical,Web Server,Misconfigured Permissions,Firewall Rule Update,23601,321527
+184,Malware,Medium,User Endpoint,Social Engineering,Patch Update,27053,232047
+185,Malware,Low,Email Server,Unpatched Software,Patch Update,46274,456256
+186,SQL Injection,Medium,Email Server,Misconfigured Permissions,Credential Reset,45204,368305
+187,Insider Threat,Low,User Endpoint,Open Port,Firewall Rule Update,22759,348975
+188,SQL Injection,Critical,Web Server,Misconfigured Permissions,Credential Reset,3676,7105
+189,SQL Injection,Medium,User Endpoint,Social Engineering,Network Monitoring,5006,394965
+190,DDoS,High,Web Server,Unpatched Software,Access Revocation,3399,266776
+191,Phishing,Critical,User Endpoint,Open Port,Patch Update,30187,233882
+192,Insider Threat,Critical,Database,Social Engineering,Firewall Rule Update,20813,63236
+193,DDoS,Low,Database,Social Engineering,Firewall Rule Update,2448,293097
+194,Insider Threat,Low,Database,Misconfigured Permissions,Credential Reset,41881,160697
+195,Insider Threat,Medium,User Endpoint,Unpatched Software,Access Revocation,3656,429127
+196,Phishing,Critical,Email Server,Misconfigured Permissions,Credential Reset,39418,249058
+197,SQL Injection,High,User Endpoint,Weak Password,Patch Update,49862,346458
+198,Phishing,Low,Email Server,Unpatched Software,Access Revocation,35993,274670
+199,Ransomware,Low,Database,Open Port,Firewall Rule Update,9304,431880
+200,SQL Injection,Critical,Database,Unpatched Software,Credential Reset,12939,99326
+201,Malware,Critical,Web Server,Social Engineering,Network Monitoring,47075,178174
+202,Malware,Critical,Database,Misconfigured Permissions,Patch Update,29624,240802
+203,SQL Injection,Medium,User Endpoint,Weak Password,Credential Reset,48348,26465
+204,Insider Threat,Critical,User Endpoint,Misconfigured Permissions,Network Monitoring,45438,304329
+205,Phishing,Medium,Database,Social Engineering,Credential Reset,39825,463786
+206,Ransomware,Critical,User Endpoint,Misconfigured Permissions,Network Monitoring,18030,209598
+207,Ransomware,High,User Endpoint,Open Port,Network Monitoring,27149,316896
+208,SQL Injection,High,Email Server,Misconfigured Permissions,Network Monitoring,13265,110949
+209,Insider Threat,High,Email Server,Open Port,Network Monitoring,33123,285421
+210,SQL Injection,High,Database,Unpatched Software,Credential Reset,31581,306558
+211,Insider Threat,Critical,Email Server,Social Engineering,Patch Update,34357,56821
+212,Malware,Critical,Web Server,Weak Password,Patch Update,13200,140973
+213,Phishing,High,Email Server,Open Port,Patch Update,45358,412229
+214,Ransomware,Medium,Database,Unpatched Software,Firewall Rule Update,6816,324018
+215,SQL Injection,Medium,User Endpoint,Open Port,Credential Reset,45721,151805
+216,SQL Injection,Low,User Endpoint,Social Engineering,Firewall Rule Update,45001,164920
+217,Insider Threat,Low,Database,Unpatched Software,Network Monitoring,40769,456527
+218,DDoS,Medium,Email Server,Misconfigured Permissions,Credential Reset,48495,317348
+219,Phishing,Medium,Email Server,Social Engineering,Network Monitoring,44838,40043
+220,Phishing,Medium,Database,Social Engineering,Patch Update,28182,147335
+221,Insider Threat,High,Web Server,Open Port,Credential Reset,16812,3959
+222,Ransomware,Critical,Web Server,Weak Password,Network Monitoring,21243,313937
+223,Malware,High,User Endpoint,Misconfigured Permissions,Credential Reset,23567,39210
+224,SQL Injection,High,Web Server,Open Port,Credential Reset,4568,413225
+225,Insider Threat,Medium,User Endpoint,Misconfigured Permissions,Credential Reset,26538,49205
+226,Ransomware,Medium,Web Server,Unpatched Software,Access Revocation,23745,154917
+227,Phishing,Critical,Database,Weak Password,Access Revocation,29307,127011
+228,SQL Injection,Medium,Database,Unpatched Software,Firewall Rule Update,7530,203310
+229,Ransomware,High,Database,Misconfigured Permissions,Access Revocation,33805,421907
+230,Insider Threat,Critical,User Endpoint,Weak Password,Access Revocation,42798,101931
+231,Ransomware,Low,Database,Open Port,Credential Reset,35044,4843
+232,SQL Injection,Low,Web Server,Open Port,Firewall Rule Update,6910,108782
+233,Insider Threat,Critical,Database,Open Port,Patch Update,30195,376845
+234,Ransomware,Low,Database,Weak Password,Patch Update,11764,417397
+235,Ransomware,Low,Web Server,Unpatched Software,Firewall Rule Update,25530,237519
+236,SQL Injection,Critical,User Endpoint,Unpatched Software,Patch Update,25626,354002
+237,Malware,Low,Database,Misconfigured Permissions,Patch Update,46033,445727
+238,Malware,High,Database,Unpatched Software,Access Revocation,39851,46353
+239,Ransomware,Critical,User Endpoint,Social Engineering,Patch Update,31163,82958
+240,Insider Threat,Medium,Web Server,Social Engineering,Credential Reset,19431,333422
+241,Phishing,High,Email Server,Weak Password,Credential Reset,36477,75120
+242,Malware,Low,Database,Misconfigured Permissions,Credential Reset,25926,282622
+243,Insider Threat,Low,Email Server,Open Port,Access Revocation,13976,217349
+244,SQL Injection,Medium,Web Server,Open Port,Network Monitoring,40528,438648
+245,Ransomware,Medium,Database,Open Port,Credential Reset,3664,447372
+246,Insider Threat,Critical,Database,Unpatched Software,Patch Update,16529,52486
+247,Phishing,Critical,Email Server,Unpatched Software,Network Monitoring,44094,344656
+248,Phishing,Low,Email Server,Misconfigured Permissions,Patch Update,12781,167611
+249,DDoS,Critical,Email Server,Misconfigured Permissions,Access Revocation,45546,307273
+250,Phishing,High,Email Server,Social Engineering,Network Monitoring,416,165214
+251,Phishing,Medium,User Endpoint,Unpatched Software,Access Revocation,8901,357295
+252,SQL Injection,High,User Endpoint,Social Engineering,Firewall Rule Update,23610,407201
+253,Ransomware,Critical,Database,Open Port,Credential Reset,5472,442341
+254,Ransomware,Medium,Web Server,Unpatched Software,Patch Update,47772,40531
+255,Malware,Low,User Endpoint,Misconfigured Permissions,Network Monitoring,2502,290194
+256,Ransomware,Critical,Web Server,Unpatched Software,Firewall Rule Update,14734,468370
+257,Insider Threat,High,Web Server,Social Engineering,Credential Reset,33550,48476
+258,DDoS,High,Database,Open Port,Credential Reset,44937,87949
+259,Insider Threat,Medium,User Endpoint,Open Port,Network Monitoring,37216,498398
+260,Insider Threat,Medium,User Endpoint,Unpatched Software,Patch Update,14440,400230
+261,DDoS,Medium,Database,Unpatched Software,Access Revocation,15436,23443
+262,SQL Injection,Medium,Email Server,Social Engineering,Firewall Rule Update,29895,463187
+263,Malware,Low,Email Server,Weak Password,Credential Reset,41621,435974
+264,Ransomware,High,Web Server,Social Engineering,Firewall Rule Update,24040,309112
+265,SQL Injection,Low,Email Server,Social Engineering,Network Monitoring,33940,213778
+266,Ransomware,High,User Endpoint,Social Engineering,Credential Reset,532,264107
+267,Phishing,Critical,Web Server,Open Port,Patch Update,33820,338367
+268,Ransomware,Medium,Web Server,Open Port,Network Monitoring,23838,316632
+269,SQL Injection,Low,Web Server,Social Engineering,Access Revocation,47302,60422
+270,DDoS,Critical,User Endpoint,Open Port,Credential Reset,10667,340350
+271,DDoS,Low,Web Server,Weak Password,Network Monitoring,37684,311560
+272,Phishing,Medium,Database,Misconfigured Permissions,Network Monitoring,3764,88210
+273,Ransomware,Medium,User Endpoint,Misconfigured Permissions,Credential Reset,41887,10762
+274,SQL Injection,High,Database,Open Port,Firewall Rule Update,39849,248156
+275,DDoS,Medium,Web Server,Social Engineering,Credential Reset,9452,417607
+276,Insider Threat,Medium,Email Server,Open Port,Access Revocation,29818,313755
+277,Insider Threat,Low,Web Server,Social Engineering,Firewall Rule Update,8764,57922
+278,Malware,Medium,User Endpoint,Open Port,Credential Reset,6411,94020
+279,DDoS,Low,Database,Weak Password,Firewall Rule Update,43313,69329
+280,Insider Threat,Low,User Endpoint,Misconfigured Permissions,Firewall Rule Update,24373,459659
+281,Malware,Critical,Web Server,Social Engineering,Firewall Rule Update,23071,309830
+282,SQL Injection,Low,User Endpoint,Open Port,Access Revocation,31369,402530
+283,Phishing,Low,Email Server,Misconfigured Permissions,Credential Reset,26881,136164
+284,Phishing,Low,Database,Misconfigured Permissions,Credential Reset,7822,273504
+285,Malware,Critical,Web Server,Unpatched Software,Firewall Rule Update,23841,56880
+286,Phishing,Critical,Email Server,Unpatched Software,Credential Reset,27858,297049
+287,Ransomware,High,User Endpoint,Open Port,Firewall Rule Update,36282,411930
+288,Insider Threat,Critical,Web Server,Unpatched Software,Credential Reset,36466,254629
+289,Ransomware,High,Email Server,Social Engineering,Network Monitoring,43306,63435
+290,SQL Injection,Medium,User Endpoint,Open Port,Patch Update,14154,267518
+291,DDoS,High,Database,Open Port,Firewall Rule Update,41772,3773
+292,Malware,Medium,User Endpoint,Misconfigured Permissions,Firewall Rule Update,5876,34596
+293,Ransomware,Medium,Email Server,Weak Password,Credential Reset,2574,380843
+294,DDoS,Critical,Email Server,Misconfigured Permissions,Patch Update,11586,336697
+295,DDoS,Critical,Database,Open Port,Credential Reset,18843,103103
+296,Malware,Medium,Web Server,Weak Password,Access Revocation,15779,344418
+297,Malware,Medium,Database,Unpatched Software,Firewall Rule Update,23242,352095
+298,DDoS,Critical,Web Server,Misconfigured Permissions,Patch Update,48395,369900
+299,Malware,Low,Email Server,Misconfigured Permissions,Credential Reset,22912,183177
+300,Ransomware,Medium,Web Server,Social Engineering,Firewall Rule Update,37777,3438
